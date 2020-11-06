@@ -1,1 +1,5 @@
-devtools::use_appveyor("C:/R/Kursmaterial/Building R packages/Peer graded assignment 2/Package/FARSfunctions")
+language: r
+r:
+  - oldrel
+  - release
+  - devel
