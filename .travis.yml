@@ -1,3 +1,10 @@
 language: R
 sudo: false
+dist: xenial
+cache: packages
+
+r_binary_packages:
+  - devtools
+  - roxygen2
+  
 cache: packages
