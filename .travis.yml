@@ -1,6 +1,7 @@
 language: R
 sudo: false
 dist: xenial
+os: windows
 cache: packages
 
 r_binary_packages:
