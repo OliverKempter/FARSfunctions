@@ -1,3 +1,4 @@
+usethis::use_appveyor()
 language: r
 r:
   - oldrel
