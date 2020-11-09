@@ -1,4 +1,6 @@
 
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/GITHUB_USERNAME/REPO?branch=master&svg=true)](https://ci.appveyor.com/project/GITHUB_USERNAME/REPO)
+
 # FARSfunctions
 
 <!-- badges: start -->
