@@ -18,9 +18,7 @@ an R package and how to push that package on GitHub.
 The used data is provided by the US National Highway Traffic Safety Administration's
 Fatality Analysis Reporting System (FARS) and can be found at
 
-'''{r eval = FALSE}
-\href{https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars}{www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars}.
-'''
+www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
 
 The package's data is dealing with motor vehicle traffic crashes in the US between 2013 and 2015.
 These are the variables of the data which will be used by the functions.
