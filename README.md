@@ -3,7 +3,7 @@
 # FARSfunctions
 
 <!-- badges: start -->
-[!TRAVIS build status](https://travis-ci.com/oliverkempter/FARSfunctions.svg?branch=master)[https://travis-ci.org/oliverkempter/FARSfunctions)
+
 <!-- badges: end -->
 
 The goal of FARSfunctions is to provide functions, concerning with fatal injuries
