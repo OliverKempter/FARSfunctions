@@ -3,8 +3,7 @@
 # FARSfunctions
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.com/OliverKempter/FEARSfunctions.svg?branch=master)](https://travis-ci.com/OliverKempter/FEARSfunctions)
-
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/OliverKempter/FEARSfunctions?branch=master&svg=true)]
 <!-- badges: end -->
 
 The goal of FARSfunctions is to provide functions, concerning with fatal injuries
