@@ -1,0 +1,4 @@
+dotnet_csproj:
+  patch: true
+  file: '**\*.csproj;**\*.props;**\*.fsproj;**\*.xml'
+  ...
