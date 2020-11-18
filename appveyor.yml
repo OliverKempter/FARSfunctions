@@ -4,4 +4,4 @@ environment:
        USE_RTOOLS: true
 
 build:
-  project: FARSfunctions
+  project: R
