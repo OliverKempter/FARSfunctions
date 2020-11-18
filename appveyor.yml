@@ -1,5 +1,5 @@
 
-devtools::use_appveyor()
+usethis::use_appveyor()
 build:off
 
 
