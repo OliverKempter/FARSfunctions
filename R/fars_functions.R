@@ -1,3 +1,6 @@
+##Vignette
+usethis::use_appveyor()
+
 library("devtools")
 library("magrittr")
 library("roxygen2")
