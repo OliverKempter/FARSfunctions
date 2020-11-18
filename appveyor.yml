@@ -1,4 +1,4 @@
-dotnet_csproj:
-  patch: true
-  file: '**\*.csproj;**\*.props;**\*.fsproj;**\*.xml'
-  ...
+devtools::use_appveyor()
+build:off
+
+
