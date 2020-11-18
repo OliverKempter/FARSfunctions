@@ -1,9 +1,0 @@
-language: R
-sudo: false
-OS:
- -osx
-
-r:
- -3.4
- -relese
- -devel
