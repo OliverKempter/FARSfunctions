@@ -3,5 +3,5 @@ environment:
        WARNINGS_ARE_ERRORS: 0
        USE_RTOOLS: true
 
-LOCAL_SOFT = c:/extsoft
-LIB_XML = c:/extsoft
+gem update --system
+gem install rake
