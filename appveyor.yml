@@ -3,5 +3,5 @@ environment:
        WARNINGS_ARE_ERRORS: 0
        USE_RTOOLS: true
 
-build:
+build_script:
   project: R
