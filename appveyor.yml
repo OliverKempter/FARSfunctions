@@ -2,5 +2,4 @@ environment:
       global:
        WARNINGS_ARE_ERRORS: 0
        USE_RTOOLS: true
-:gem update --system
-:gem install rake
+"build:off"
