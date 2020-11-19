@@ -3,7 +3,7 @@
 # FARSfunctions
 
 <!-- badges: start -->
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/githubgithub/oliverkempter/farsfunctions/master)](https://ci.appveyor.com/api/projects/status/githubgithub/oliverkempter/farsfunctions/master)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/githubgithub/oliverkempter/farsfunctions/master)](https://ci.appveyor.com/projects/status/githubgithub/oliverkempter/farsfunctions/master)
 <!-- badges: end -->
 
 The goal of FARSfunctions is to provide functions, concerning with fatal injuries
