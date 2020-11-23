@@ -76,49 +76,48 @@ State code | Names
 06         | Colodrado
 07         | Connecticut
 08         | Delaware
-09         | District of Columbia
-10         | Florida
-11         | Georgia
-12         | Hawaii
-13         | Idaho
-14         | Illinois
-15         | Indiana
-16         | Iowa
-17         | Kansas
-18         | Kentuky
-19         | Louisiana
-20         | Maine
-21         | Maryland
-22         | Massachusetts
-23         | Michigan
-24         | Minnesota
-25         | Mississippi
-26         | Missouri
-27         | Montana
-28         | Nebraska
-29         | Nevada
-30         | New Hampshire
-31         | New Jersey
-32         | New Mexico
-33         | New York
-34         | North Carolina
-35         | North Dakota
-36         | Ohio
-37         | Oklahoma
-38         | Oregon
-39         | Pennsylvania
-40         | Rhode Island
-41         | South Carolina
-42         | South Dakota
-43         | Tennessee
-44         | Texas
-45         | Utah
-46         | Vermont
-47         | Virginia
-48         | Washington
-49         | West Virginia
-50         | Wisconsin
-51         | Wyoming
+09         | Florida
+10         | Georgia
+11         | Hawaii
+12         | Idaho
+13         | Illinois
+14         | Indiana
+15         | Iowa
+16         | Kansas
+17         | Kentuky
+18         | Louisiana
+19         | Maine
+20         | Maryland
+21         | Massachusetts
+22         | Michigan
+23         | Minnesota
+24         | Mississippi
+25         | Missouri
+26         | Montana
+27         | Nebraska
+28         | Nevada
+29         | New Hampshire
+30         | New Jersey
+31         | New Mexico
+32         | New York
+33         | North Carolina
+34         | North Dakota
+35         | Ohio
+36         | Oklahoma
+37         | Oregon
+38         | Pennsylvania
+39         | Rhode Island
+40         | South Carolina
+41         | South Dakota
+42         | Tennessee
+43         | Texas
+44         | Utah
+45         | Vermont
+46         | Virginia
+47         | Washington
+48         | West Virginia
+49         | Wisconsin
+50         | Wyoming
 
 
 As an example, you can run that code, to get the location of motor vehicle traffic crashes in Alabama in 2013
